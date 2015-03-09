@@ -1,1 +1,2 @@
-hi
+My solutions are posted in another repository located here:
+https://github.com/Ankeet-Parikh/ProjectEulerSolutions-Java/tree/master/src
