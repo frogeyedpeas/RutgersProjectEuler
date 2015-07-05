@@ -1,0 +1,1 @@
+print sum({x for y in [3, 5] for x in range(y, 1000, y)})
